@@ -4,7 +4,7 @@ public class Oppgave4_1 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int number, sum;
-		
+		//lol
 		System.out.println("Gi inn et tall : ");
 		number = input.nextInt();
 		sum = 1;
